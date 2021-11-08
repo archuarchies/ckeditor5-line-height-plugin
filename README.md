@@ -1,3 +1,11 @@
+# Custom ckeditor5-line-height-plugin
+
+Plugin details - https://www.npmjs.com/package/ckeditor5-line-height-plugin
+
+The dependency versions for ckeditor5-core, ckeditor5-ui, ckeditor5-utils have been changed to 30.0.0
+
+Below are the instructions given by the original author. 
+
 # ckeditor5-line-height-plugin
 
 Plugin for CKEditor5 to create button to change the line height of the selected block.
